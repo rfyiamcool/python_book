@@ -2,4 +2,4 @@
 
 ## List:
 
-1.1 通过opcode字节码验证Python的线程安全
+* 通过opcode字节码验证Python的线程安全
