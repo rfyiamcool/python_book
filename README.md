@@ -15,6 +15,6 @@
   * 较完美的解决方案 !
 
 * Python Multiprocessing
-  * Value实现原理
-  * Manager实现原理
+  * Value实现原理
+  * Manager实现原理
   * ...
