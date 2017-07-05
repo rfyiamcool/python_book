@@ -58,7 +58,7 @@
 
 
 * 网络编程中查找性能点
-  * io、cpu、mem、net、si
+  * io、cpu、mem、net、si
   * 压力源
   * 是否阻塞
   * content switch过高
