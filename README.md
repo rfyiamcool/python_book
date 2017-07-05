@@ -57,6 +57,22 @@
   * gcc __sync_x cas锁
 
 
+* 网络编程中查找性能点
+  * 压力源
+  * 是否阻塞
+  * content switch过高
+  * metrics time cost监控
+  * 大招systramp
+
+
+* 网络编程中提高性能
+  * io非阻塞
+  * 长连接及连接池
+  * io合并
+  * prefork + event_loop
+  * accept锁策略
+
+
 * Python Redis 实战场景
   * 基于客户端的集群设计
   * 如何提高io效率及吞吐
