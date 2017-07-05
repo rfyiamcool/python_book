@@ -58,19 +58,20 @@
 
 
 * 网络编程中查找性能点
-  * 压力源
-  * 是否阻塞
-  * content switch过高
-  * metrics time cost监控
-  * 大招systramp
+  * 压力源
+  * 是否阻塞
+  * content switch过高
+  * metrics time cost监控
+  * 大招systramp
 
 
 * 网络编程中提高性能
-  * io非阻塞
+  * io非阻塞
   * 长连接及连接池
-  * io合并
+  * io合并
   * prefork + event_loop
-  * accept锁策略
+  * accept锁策略
+  * ..
 
 
 * Python Redis 实战场景
