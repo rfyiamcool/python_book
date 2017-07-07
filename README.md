@@ -63,7 +63,7 @@
   * 是否阻塞
   * content switch过高
   * metrics time cost监控
-  * 大招systramp
+  * 大招systemtap
 
 
 * 网络编程中提高性能
