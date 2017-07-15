@@ -15,6 +15,9 @@
 
 
 * Python gil
+    * gil的演进
+    * gil的实现
+    * 怎么绕过gil
 
 
 * Python的内存管理
