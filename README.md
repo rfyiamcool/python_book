@@ -15,9 +15,9 @@
 
 
 * Python gil
-    * gil的演进
-    * gil的实现
-    * 怎么绕过gil
+  * gil的演进
+  * gil的实现
+  * 怎么绕过gil
 
 
 * Python的内存管理
@@ -77,19 +77,28 @@
   * accept锁策略
   * ..
 
+* 构建自定义web框架
+  * wsgi
+  * route
+  * orm
+  * view
+  * to do...
+
+
 * 爬虫
-  * 爬虫的痛点
-  * 如何高效抓取
-  * 常见的爬虫性能问题
-  * 构建千万级爬虫思路
-    * engine调度器
-    * spider抓取
-    * timer定时器
-    * extractor分析处理
-    * 高性能MQ的选择
-    * 存储DB的选择
-    * 去重DB的选择
-    * ... TO DO
+  - 爬虫的痛点
+  - 如何高效抓取
+  - 常见的爬虫性能问题
+  - 构建千万级爬虫思路
+    + engine调度器
+    + spider抓取
+    + timer定时器
+    + extractor分析处理
+    + 高性能MQ的选择
+    + 存储DB的选择
+    + 去重DB的选择
+    + TO DO ...
+
 
 * Python Redis 实战场景
   * 基于客户端的集群设计
